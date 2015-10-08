@@ -1,0 +1,10 @@
+C:\Users\21313534\Desktop\IACT_RobotDemo\IACT_RobotDemo\IACT_RobotDemo\bin\Debug\IACT_RobotDemo.exe.config
+C:\Users\21313534\Desktop\IACT_RobotDemo\IACT_RobotDemo\IACT_RobotDemo\bin\Debug\IACT_RobotDemo.exe
+C:\Users\21313534\Desktop\IACT_RobotDemo\IACT_RobotDemo\IACT_RobotDemo\bin\Debug\IACT_RobotDemo.pdb
+C:\Users\21313534\Desktop\IACT_RobotDemo\IACT_RobotDemo\IACT_RobotDemo\bin\Debug\IACT_RobotLibrary.dll
+C:\Users\21313534\Desktop\IACT_RobotDemo\IACT_RobotDemo\IACT_RobotDemo\bin\Debug\IACT_RobotLibrary.pdb
+C:\Users\21313534\Desktop\IACT_RobotDemo\IACT_RobotDemo\IACT_RobotDemo\obj\Debug\IACT_RobotDemo.Form_Main.resources
+C:\Users\21313534\Desktop\IACT_RobotDemo\IACT_RobotDemo\IACT_RobotDemo\obj\Debug\IACT_RobotDemo.Properties.Resources.resources
+C:\Users\21313534\Desktop\IACT_RobotDemo\IACT_RobotDemo\IACT_RobotDemo\obj\Debug\IACT_RobotDemo.csproj.GenerateResource.Cache
+C:\Users\21313534\Desktop\IACT_RobotDemo\IACT_RobotDemo\IACT_RobotDemo\obj\Debug\IACT_RobotDemo.exe
+C:\Users\21313534\Desktop\IACT_RobotDemo\IACT_RobotDemo\IACT_RobotDemo\obj\Debug\IACT_RobotDemo.pdb

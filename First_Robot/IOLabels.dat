@@ -1,0 +1,99 @@
+ENVT0100,LM:2015/09/01 05:52:25:075,DS:0000001471,CS:28539,MA:08-00-27-00-0C-1B,EI:           
+sRCVersion="7.1.0"
+InputBitLabels {
+	nNumberOfLabels=5
+	Label1 {
+		nBit=8
+		sLabel="InitialButton"
+		sDescription=""
+	}
+	Label2 {
+		nBit=9
+		sLabel="StartButton"
+		sDescription=""
+	}
+	Label3 {
+		nBit=10
+		sLabel="CompressInput"
+		sDescription=""
+	}
+	Label4 {
+		nBit=11
+		sLabel="EmergencyPause"
+		sDescription=""
+	}
+	Label5 {
+		nBit=12
+		sLabel="Reset"
+		sDescription=""
+	}
+}
+InputByteLabels {
+	nNumberOfLabels=0
+}
+InputWordLabels {
+	nNumberOfLabels=0
+}
+OutputBitLabels {
+	nNumberOfLabels=8
+	Label1 {
+		nBit=8
+		sLabel="SuckerOne"
+		sDescription=""
+	}
+	Label2 {
+		nBit=9
+		sLabel="SuckerTwo"
+		sDescription=""
+	}
+	Label3 {
+		nBit=10
+		sLabel="CompressOutput"
+		sDescription=""
+	}
+	Label4 {
+		nBit=11
+		sLabel="ResetNotification"
+		sDescription=""
+	}
+	Label5 {
+		nBit=12
+		sLabel="LightRed"
+		sDescription=""
+	}
+	Label6 {
+		nBit=13
+		sLabel="LightYellow"
+		sDescription=""
+	}
+	Label7 {
+		nBit=14
+		sLabel="LightGreen"
+		sDescription=""
+	}
+	Label8 {
+		nBit=15
+		sLabel="BuzzerOne"
+		sDescription=""
+	}
+}
+OutputByteLabels {
+	nNumberOfLabels=0
+}
+OutputWordLabels {
+	nNumberOfLabels=0
+}
+MemoryBitLabels {
+	nNumberOfLabels=1
+	Label1 {
+		nBit=1
+		sLabel="canTakePicture"
+		sDescription="Take a Pic"
+	}
+}
+MemoryByteLabels {
+	nNumberOfLabels=0
+}
+MemoryWordLabels {
+	nNumberOfLabels=0
+}

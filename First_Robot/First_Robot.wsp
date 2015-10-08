@@ -1,0 +1,161 @@
+ENVT0100,LM:2015/09/15 02:37:23:392,DS:0000002171,CS:28006,MA:08-00-27-00-0C-1B,EI:           
+sActiveChild="FirstRobor.prg"
+bMdiMaximized=False
+nProgramFileCount=2
+ProgramFile1 {
+	sName="FirstRobor.prg"
+	bOpened=True
+	nWinState=0
+	Window {
+		nLeft=3
+		nTop=42
+		nWidth=1310
+		nHeight=607
+	}
+}
+ProgramFile2 {
+	sName="SeconRobot.prg"
+	bOpened=False
+	nWinState=0
+	Window {
+		nLeft=12
+		nTop=42
+		nWidth=1091
+		nHeight=555
+	}
+}
+nIncludeFileCount=0
+nPointFileCount=1
+PointFile1 {
+	sName="Points.pts"
+	bOpened=False
+	nWinState=0
+	Window {
+		nLeft=518
+		nTop=72
+		nWidth=806
+		nHeight=446
+	}
+}
+sActiveWindow="main.prg"
+CmdWindow {
+	bOpened=False
+	Window {
+		nLeft=58
+		nTop=65
+		nWidth=933
+		nHeight=549
+	}
+	nWinState=0
+}
+RunWindow {
+	bOpened=False
+	Window {
+		nLeft=502
+		nTop=35
+		nWidth=878
+		nHeight=550
+	}
+	nWinState=0
+}
+IOLabelEditor {
+	bOpened=False
+	Window {
+		nLeft=286
+		nTop=38
+		nWidth=1071
+		nHeight=485
+	}
+	nWinState=0
+}
+IOMonitor {
+	bOpened=False
+	Window {
+		nLeft=1093
+		nTop=65
+		nWidth=478
+		nHeight=556
+	}
+}
+Simulator {
+	bOpened=False
+	Window {
+		nLeft=429
+		nTop=3
+		nWidth=1131
+		nHeight=649
+	}
+}
+TaskMgr {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+}
+Macros {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+}
+RobotMgr {
+	bOpened=False
+	Window {
+		nLeft=377
+		nTop=92
+		nWidth=686
+		nHeight=477
+	}
+}
+UserErrorEditor {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+	nWinState=0
+}
+VisionGuide {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+	nWinState=0
+}
+GUIBuilder {
+	bOpened=False
+	Window {
+		nLeft=0
+		nTop=0
+		nWidth=0
+		nHeight=0
+	}
+	nWinState=0
+}
+ProjectExplorer {
+	bProgramsOpened=True
+	bIncludesOpened=False
+	bLabelsOpened=True
+	bMacrosOpened=False
+	bPointsOpened=False
+	bFunctionsOpened=False
+	bVisionOpened=False
+	bVisionSequencesOpened=False
+	bVisionCalibsOpened=False
+	bGUIBOpened=False
+	bGUIBFormsOpened=False
+	bRobotPointsOpened=True
+	bCommonPointsOpened=False
+	bRobotsOpened1=True
+}

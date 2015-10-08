@@ -1,0 +1,27 @@
+'
+' FM1 Automation Project
+' Sencond Robot
+' by IAC Wumin
+'
+
+Function SecondRobot
+	
+	Power High
+	Speed 100, 80, 50
+    Accel 100, 30, 100, 50, 100, 10
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+Fend
+
